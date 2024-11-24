@@ -1,0 +1,33 @@
+* {
+    font-family: poppins;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url('img/bg.png');
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
+.branding{
+    max-width: 40px;
+}
+
+.user-profile img{
+    max-width: 40px;
+    border-radius: 20px;
+    margin-left: 10px;
+}
+
+.profile-container img{
+    max-height: 30px !important;
+    border-radius: 15px;
+}
+
+
+
+
